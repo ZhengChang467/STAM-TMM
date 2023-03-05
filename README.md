@@ -54,5 +54,5 @@ Please cite the following paper if you feel this repository useful.
 }
 ```
 ### License
-See [MIT License](https://github.com/ZhengChang467/MAU/blob/master/LICENSE)
+See [MIT License](https://github.com/ZhengChang467/STAM-TMM/blob/master/LICENSE)
 
